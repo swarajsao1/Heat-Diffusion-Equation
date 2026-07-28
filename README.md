@@ -11,6 +11,7 @@ The **heat equation** is a parabolic partial differential equation (PDE) that de
 In one spatial dimension, the temperature distribution $u(x, t)$ over position $x$ and time $t$ is governed by:
 
 $$\frac{\partial T}{\partial t} = \alpha \frac{\partial^2 T}{\partial x^2}$$ 
+
 Where:
 * **$T(x, t)$**: Temperature at position $x$ and time $t$.
 * **$t$**: Time variable.
