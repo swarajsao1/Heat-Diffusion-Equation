@@ -1,5 +1,7 @@
 # Heat Diffusion Equation
 
+---
+
 The **heat equation** is a parabolic partial differential equation (PDE) that describes how heat redistributes itself through a given region over time.
 
 ---
